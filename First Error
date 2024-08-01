@@ -1,0 +1,8 @@
+```` error
+py of '.flutter-plugins', LF will be replaced by CRLF the next time Git touches it
+````
+anwser:
+````
+git config --global core.autocrlf true
+git config --global core.autolf true
+````
